@@ -33,7 +33,7 @@ def main():
         
         directory = os.path.basename(os.path.dirname(root))
         
-        if directory == '.' || directory == '.idea':
+        if directory == '.' or directory == '.idea':
             continue
             
         if directory not in directories:
