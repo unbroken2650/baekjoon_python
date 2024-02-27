@@ -14,6 +14,7 @@
 | 문제번호 | 링크 |
 | ----- | ----- |
 |10828. 스택|[링크](./%EB%B0%B1%EC%A4%80/Silver/10828.%E2%80%85%EC%8A%A4%ED%83%9D/README.md)|
+|11650. 좌표 정렬하기|[링크](./%EB%B0%B1%EC%A4%80/Silver/11650.%E2%80%85%EC%A2%8C%ED%91%9C%E2%80%85%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0/README.md)|
 |1181. 단어 정렬|[링크](./%EB%B0%B1%EC%A4%80/Silver/1181.%E2%80%85%EB%8B%A8%EC%96%B4%E2%80%85%EC%A0%95%EB%A0%AC/README.md)|
 |1439. 뒤집기|[링크](./%EB%B0%B1%EC%A4%80/Silver/1439.%E2%80%85%EB%92%A4%EC%A7%91%EA%B8%B0/README.md)|
 |1920. 수 찾기|[링크](./%EB%B0%B1%EC%A4%80/Silver/1920.%E2%80%85%EC%88%98%E2%80%85%EC%B0%BE%EA%B8%B0/README.md)|
